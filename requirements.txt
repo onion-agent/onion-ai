@@ -1,0 +1,6 @@
+flask
+openai
+json_repair
+gunicorn
+tweepy
+requests
